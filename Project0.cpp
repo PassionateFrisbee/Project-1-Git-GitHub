@@ -18,5 +18,6 @@ int main() {
     printf(mid_print, '\n', '\n', '\n', '\n');
     printf(end_print, '\n', '\n', '\n', '\n');
     printf(end, '\n', '\n');
+
     return 0;
 }
