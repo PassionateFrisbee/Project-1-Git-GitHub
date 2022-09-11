@@ -3,6 +3,7 @@
 
 ### Steps to resolve merge conflicts:
 - Use `git checkout main` to switch to the branch that has the merge conflicts.
+- Use `git status` to check which files have conflicts in them.
 - Execute `open project0.cpp` to open the file that contains the conflicting code.
 - Choose from the following options to keep either the incoming changes or the original code:
   - *Accept Current Changes*
