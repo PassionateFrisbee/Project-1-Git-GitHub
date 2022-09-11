@@ -9,4 +9,4 @@
   - *Accept Incoming Changes*
 - After clearing all the highlighted conflicts, use `git status` to check if all the conflicts are resolved.
 - Use `git add project0.cpp` to stage the new updated file
-- To finalize merging the branch, use `git commmit -m "Merge conflicts resolved"`
+- To finalize merging the branch, use `git commmit -m "Merge branch 'another-branch"`
